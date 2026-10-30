@@ -1,0 +1,16 @@
+== BlogWings Changelog ==
+
+= 1.0.3 - 30 October 2026 =
+* Added: Default colour mode option in the Customizer (light, dark or follow the visitor's device), applied on <html> before CSS/JS loads.
+* Added: Show/hide dark-mode toggle option.
+* Added: readme.txt and changelog.txt.
+
+= Features in this release =
+* Glassy sticky header with dropdowns and BWing-powered mega menus.
+* Search overlay with BWing live search fallback to the standard search form.
+* Dark mode with visitor toggle (remembered per browser, no flash of the wrong scheme).
+* Customizer panel: colours & layout, header, footer and blog options.
+* Full width page template, breadcrumbs, reading time and pagination.
+* Block editor support with custom colour palette and editor styles.
+* Primary and Footer menus; Blog sidebar and Footer column widget areas.
+* Admin notice to install/activate the BWing companion plugin.

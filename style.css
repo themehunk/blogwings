@@ -1,0 +1,16 @@
+/*
+Theme Name: BlogWings
+Theme URI: https://example.com/blogwings
+Author: BlogWings
+Description: A fast, modern data-journalism theme for tracking the WordPress ecosystem. Glassy sticky header with mega menus, live search, dark mode, rich footer and full-width layouts. Designed to pair with the BWing plugin (rankings, stats, detector & dashboard) but works great as a blog theme on its own.
+Version: 1.0.3
+Requires at least: 6.0
+Tested up to: 6.8
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: blogwings
+Tags: blog, news, one-column, two-columns, right-sidebar, custom-logo, custom-menu, custom-colors, featured-images, sticky-post, threaded-comments, translation-ready, wide-blocks
+*/
+
+/* Main styles live in assets/css/main.css */

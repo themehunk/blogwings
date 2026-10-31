@@ -3,7 +3,7 @@ Contributors: themehunk
 Requires at least: 6.0
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.0.3
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, one-column, two-columns, right-sidebar, custom-logo, custom-menu, custom-colors, featured-images, sticky-post, threaded-comments, translation-ready, wide-blocks
@@ -48,6 +48,15 @@ No. BlogWings works as a regular blog theme. The BWing plugin adds rankings, sta
 Go to Appearance > Customize > BlogWings options > Colours & layout and choose Light, Dark or Follow visitor's device. A visitor's own toggle choice overrides the default.
 
 == Changelog ==
+
+= 1.0.6 - 31 October 2026 =
+* Changed: Restored the BlogWings colour palette for headings, text and backgrounds; keeps the 700 heading weight and the 6px image style.
+
+= 1.0.5 - 31 October 2026 =
+* Changed: Base text palette and lighter type scale to match BWing 1.4.1 – deep teal headings, grey-green body text, warm neutral backgrounds; headings 700 instead of 800.
+
+= 1.0.4 - 31 October 2026 =
+* Changed: Images in posts and pages use a 6px corner radius with 4px padding, matching the BWing thumbnails.
 
 = 1.0.3 - 30 October 2026 =
 * Added: Default colour mode option (light, dark or follow the visitor's device).

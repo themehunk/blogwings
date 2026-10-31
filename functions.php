@@ -7,7 +7,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'BLOGWINGS_VERSION', '1.0.3' );
+define( 'BLOGWINGS_VERSION', '1.0.6' );
 define( 'BLOGWINGS_DIR', get_template_directory() );
 define( 'BLOGWINGS_URI', get_template_directory_uri() );
 

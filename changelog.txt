@@ -1,5 +1,14 @@
 == BlogWings Changelog ==
 
+= 1.0.6 - 31 October 2026 =
+* Changed: Restored the BlogWings colour palette for headings, text and backgrounds; keeps the 700 heading weight and the 6px image style.
+
+= 1.0.5 - 31 October 2026 =
+* Changed: Base text palette and lighter type scale to match BWing 1.4.1 – deep teal headings, grey-green body text, warm neutral backgrounds; headings 700 instead of 800.
+
+= 1.0.4 - 31 October 2026 =
+* Changed: Images in posts and pages use a 6px corner radius with 4px padding, matching the BWing thumbnails.
+
 = 1.0.3 - 30 October 2026 =
 * Added: Default colour mode option in the Customizer (light, dark or follow the visitor's device), applied on <html> before CSS/JS loads.
 * Added: Show/hide dark-mode toggle option.

@@ -190,6 +190,12 @@ button { font-family: inherit; }
 .bwt-footer__brand p { color: var(--bw-muted); margin: 16px 0 18px; max-width: 34ch; }
 .bwt-footer h4 { margin: 0 0 12px; font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color: var(--bw-muted); }
 .bwt-footer__col .bw-mini a { padding: 5px 4px; font-size: .86rem; }
+/* Footer widgets: each widget becomes its own grid column, no sidebar card look. */
+.bwt-footer__col--widgets { display: contents; }
+.bwt-footer .bwt-widget { background: none; border: 0; border-radius: 0; padding: 0; min-width: 0; }
+.bwt-footer .bwt-widget__title { margin: 0 0 12px; }
+.bwt-footer .bwt-widget li a { padding: 5px 0; }
+.bwt-footer .bwt-widget p { color: var(--bw-muted); margin: 0; }
 .bwt-footer__more { display: inline-block; margin-top: 8px; font-weight: 700; font-size: .85rem; text-decoration: none; }
 .bwt-socials { display: flex; flex-wrap: wrap; gap: 8px; }
 .bwt-socials__link { width: 40px; height: 40px; border-radius: 12px; display: inline-grid; place-items: center; background: var(--bw-bg); border: 1px solid var(--bw-line); color: var(--bw-ink) !important; transition: transform .15s, background .15s, color .15s, border-color .15s; }
